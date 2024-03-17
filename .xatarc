@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Harjot-Singh-s-workspace-m4dp60.eu-central-1.xata.sh/db/visitmylink",
+  "codegen": {
+    "output": "./lib/xata.ts"
+  }
+}

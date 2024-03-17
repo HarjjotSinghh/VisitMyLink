@@ -57,11 +57,11 @@ export default function CreateLinkForm({
           render={({ field }) => (
             <FormItem>
               <FormLabel className="font-bold tracking-tight text-base">
-                Title for the link
+                Link Title
               </FormLabel>
 
               <FormControl>
-                <Input placeholder="shadcn" {...field} />
+                <Input placeholder="harjot-singh" {...field} />
               </FormControl>
               <FormDescription className="text-foreground/60 text-sm leading-6">
                 This is the title that will be displayed on the link.<br></br>
@@ -85,11 +85,11 @@ export default function CreateLinkForm({
           render={({ field }) => (
             <FormItem>
               <FormLabel className="font-bold tracking-tight text-base">
-                URL/Link
+                URL / Link / Redirect To
               </FormLabel>
 
               <FormControl>
-                <Input placeholder="https://shadcn.com" {...field} />
+                <Input placeholder="https://harjot.pro" {...field} />
               </FormControl>
               <FormDescription className="text-foreground/60 text-sm leading-6">
                 This is the URL/link that you want to shorten.
