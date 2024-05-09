@@ -29,9 +29,7 @@ I used the following technologies / libraries / frameworks for this project:
 - Vercel
 
 ## Screenshots
-![Homepage](https://github.com/HarjotSinghh/VisitMyLink/assets/10101900/ae0d0ee2-a9a4-4a0a-bd5a-d9d1a3a5d5b3)
-
-![Create Link](https://github.com/HarjotSinghh/VisitMyLink/assets/10101900/ae0d0ee2-a9a4-4a0a-bd5a-d9d1a3a5d5b3)
+![image](https://github.com/HarjjotSinghh/VisitMyLink/assets/114088280/8e23e006-0544-4a4d-99d3-b8d6775afaa4)
 
 ### Installation Guide
 
